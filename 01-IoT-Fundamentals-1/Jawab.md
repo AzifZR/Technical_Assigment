@@ -1,0 +1,10 @@
+1. Apa nama revolusi industri generasi mendatang yang lahir dari konvergensi teknologi informasi dan komunikasi (TIK) berbasis berbagai 
+penggunaan IoT, AI, dan Big Data? (Revolusi industri 4.0)
+2. Apakah definisi IoT menurut oracle.com? (Internet of Things (IoT) menjelaskan jaringan objek fisik—“benda”—yang disematkan dengan sensor, perangkat lunak, dan teknologi lainnya untuk tujuan menghubungkan dan bertukar data dengan perangkat dan sistem lain melalui internet. Perangkat tersebut berkisar dari benda rumah tangga biasa hingga alat industri yang canggih. Dengan lebih dari 7 miliar perangkat IoT yang terhubung saat ini, para ahli memperkirakan jumlah ini akan tumbuh menjadi 10 miliar pada tahun 2020 dan 22 miliar pada tahun 2025. Oracle memiliki jaringan mitra perangkat .)
+3. Apakah Tujuan Utama dari produk IoT? ( untuk berkomunikasi dan berbagi data melalui internet, tanpa mengandalkan banyak campur tangan manusia.)
+4. Sensor di IoT itu penting. Tulis setidaknya dua tipe sensor (Sensor Jarak(ultrasonic), Sensor Kelembapan(Humidity Sensor)) 
+5. Jelaskan secara singkat apa itu cloud computing. (Cloud computing merupakan pengiriman berbagai layanan komputasi, termasuk server, perangkat lunak, penyimpanan data, database, jaringan, serta analitik melalui internet (cloud).)
+6. Apa yang dimaksud dari sensor? (sensor adalah suatu peralatan yang berfungsi untuk mendeteksi gejala-gejala atau sinyal-sinyal yang berasal dari perubahan suatu energi seperti energi listrik, energi fisika, energi kimia, energi biologi, energi mekanik dan sebagainya.)
+7. Sebutkan minimal 2 penerapan teknologi IoT pada smart city? (Smart Lighting, Smart Electricity) 
+8. Jelaskan perbedaan dari SaaS dan PaaS? (Program SaaS hanya bisa digunakan dengan berlangganan yang nominalnya tergantung jangka waktu penggunaannya, Sedangkan PaaS merupakan sebuah rangkaian layanan yang akan membantu melakukan pengujian, development, serta penerapan aplikasi. )
+9. Sebutkan apa yang dimaksud dengan IaaS ? (IaaS adalah kepanjangan dari infrastructure as a service yang mampu mengakses sekaligus memantau kinerja komputer dan platform penyimpanan.)
